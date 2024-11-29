@@ -1,0 +1,11 @@
+.input-box {
+    width: 50px; /* Fix méret a mezőkhöz */
+    height: 50px;
+    text-align: center; /* Középre igazított szöveg */
+    font-size: 24px; /* Nagyobb betűméret */
+    margin-right: 10px; /* Térköz a mezők között */
+    border-radius: 5px; /* Enyhén lekerekített sarkok */
+  }
+  .input-box:focus {
+    outline: 2px solid #007bff; /* Kiemelés fókuszkor */
+  }
